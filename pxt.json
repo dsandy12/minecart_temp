@@ -1,7 +1,9 @@
 {
     "name": "test-package",
+	"version":"0.0.3",
     "description": "a test minecraft package",
-    "dependencies": {
+    "license":"MIT",
+	"dependencies": {
         "core": "*",
         "builder": "*"
     },
@@ -9,6 +11,6 @@
         "main.ts",
         "README.md"
     ],
-	"public",true,
+	"public":true,
     "preferredEditor": "tsprj"
 }
