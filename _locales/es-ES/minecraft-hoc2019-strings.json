@@ -1,0 +1,23 @@
+{
+  "hourOfCode.agentAnalyze|block": "agent analiza %dir",
+  "hourOfCode.agentDestroyL4|block": "agent destruye %dir",
+  "hourOfCode.agentDestroyL5|block": "agent destruye %dir",
+  "hourOfCode.agentDestroyL6|block": "agent destruye %dir",
+  "hourOfCode.agentDetectDryBrush|block": "agent detecta arbusto seco %dir",
+  "hourOfCode.agentDetectDryFern|block": "agent detecta helecho seco %dir",
+  "hourOfCode.agentDetectDryGrass|block": "agent detecta hierba seca %dir",
+  "hourOfCode.agentLookForHazards|block": "agent busca peligros",
+  "hourOfCode.agentPlaceAcacia|block": "agent place acacia %dir",
+  "hourOfCode.agentPlaceRedstoneTorch|block": "agent place redstone torch %dir",
+  "hourOfCode.agentPlantCarrots|block": "agent plant carrots",
+  "hourOfCode.agentSeeHazard|block": "peligro encontrado",
+  "hourOfCode.alertTeam|block": "avisar al equipo",
+  "hourOfCode.collectAndCount|block": "collect all",
+  "hourOfCode.goalNotReached|block": "goal not reached",
+  "hourOfCode.hazardsRemainL4|block": "queden peligros",
+  "hourOfCode.hazardsRemainL5|block": "queden peligros",
+  "hourOfCode.hazardsRemainL6|block": "queden peligros",
+  "hourOfCode.openDoor|block": "abrir puerta",
+  "hourOfCode|block": "hourOfCode",
+  "{id:category}HourOfCode": "HourOfCode"
+}

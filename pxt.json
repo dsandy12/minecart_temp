@@ -8,7 +8,7 @@
     },
     "files": [
         "README.md",
-        "extension.ts",
+        "main.ts",
         "enums.d.ts",
         "_locales/bg/minecraft-hoc2019-jsdoc-strings.json",
         "_locales/bg/minecraft-hoc2019-strings.json",
