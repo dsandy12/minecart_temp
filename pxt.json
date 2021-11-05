@@ -1,6 +1,6 @@
 {
-    "name": "asu-fse100-minecraft",
-    "description": "",
+    "name": "test-package",
+    "description": "a test minecraft package",
     "dependencies": {
         "core": "*",
         "builder": "*"
@@ -9,5 +9,6 @@
         "main.ts",
         "README.md"
     ],
+	"public",true,
     "preferredEditor": "tsprj"
 }
