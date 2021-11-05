@@ -9,9 +9,7 @@
     "files": [
         "README.md",
         "extension.ts",
-        "enums.d.ts",
-        "_locales/en-GB/minecraft-hoc2019-jsdoc-strings.json",
-        "_locales/en-GB/minecraft-hoc2019-strings.json"
+        "enums.d.ts"
     ],
     "testFiles": [
         "test.ts"
