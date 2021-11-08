@@ -1,15 +1,14 @@
 {
-    "name": "minecraft-hoc2019",
-    "version": "0.0.52",
-    "description": "Support for Minecraft Hour of Code activities",
+    "name": "motorcart-fse100",
+    "version": "0.0.1",
+    "description": "Motorized Cart Extension for ASU FSE100 Course",
     "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "README.md",
-        "extension.ts",
-        "enums.d.ts"
+        "main.ts",
     ],
     "testFiles": [
         "test.ts"
