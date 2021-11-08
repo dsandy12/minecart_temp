@@ -134,7 +134,7 @@ namespace Minecart {
     // convert the specified angle indegrees to radians
     // @param degrees - the angle to convert
     // @return - the angle expressed in radians
-    export function deg2rad (angle: number) {
+    function deg2rad (angle: number) {
         let pi = 4 * Math.atan(1.0)
         return pi * angle / 180
     }
@@ -142,7 +142,7 @@ namespace Minecart {
     // convert the specified angle in radians to degrees
     // @param angle - the angle to convert
     // @return - the angle expressed in degrees
-    export function rad2deg (angle: number) {
+    function rad2deg (angle: number) {
         let pi = 4 * Math.atan(1.0)
         return 180 * angle / pi
     }

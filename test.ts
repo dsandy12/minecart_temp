@@ -1,12 +1,1 @@
-Minecart.deg2rad (0);
-Minecart.rad2deg (0);
-Minecart.isSidewalkRight();
-Minecart.isSidewalkAhead();
-Minecart.isAtStop ();
-Minecart.canRightTurn ();
-Minecart.canLeftTurn ();
-Minecart.canGoStraight (1);
-Minecart.move(1);
-Minecart.rotate(90);
-Minecart.position();
-Minecart.heading();
+// TODO
