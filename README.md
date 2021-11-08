@@ -1,4 +1,4 @@
-# Minecraft Motorized Minecart
+# Motorcart
 
 This extention provides additional block for motorized minecart control.  The api has been optimized to run in a specific world, however, it can be used on other worlds at a lower performance level.
 

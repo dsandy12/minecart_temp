@@ -8,7 +8,7 @@
  * Custom blocks
  */
 //% weight=100 color=#EB0DD5 icon=""
-namespace Minecart {
+namespace motorcart {
     const MOVE_STEP = .2;
     let map_tile = [
 		["XXXXXXXXXX","XXXXXXXXXX","XX______XX","XX______XX","XX______XX","XX______XX","XX______XX","XX______XX","XX______XX","XX______XX"],
